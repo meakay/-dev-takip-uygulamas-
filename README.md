@@ -23,7 +23,12 @@ Eğitimler için yapılmış bir ödev takip uygulaması.
     E-mail adresini güncelleme​
     Şifreyi güncelleme​
 
- Kullanıcının Ana Ekranı
-<img src="https://i.hizliresim.com/5k6ur3g.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+ ## Kullanıcının Ana Ekranı <br>
+<img src="https://i.hizliresim.com/5k6ur3g.jpg"/>
+  ## Kullanıcının Ayarlar Ekranı <br>
+<img src="https://i.hizliresim.com/8xv89k7.jpg"/>
+  ## Görev Atama ve Görev Silme Ekranı <br>
+<img src="https://i.hizliresim.com/lxhfndc.jpg"/>
+<img src="https://i.hizliresim.com/1qfrjsn.jpg"/>
 
 

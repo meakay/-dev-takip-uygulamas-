@@ -23,12 +23,12 @@ Eğitimler için yapılmış bir ödev takip uygulaması.
     E-mail adresini güncelleme​
     Şifreyi güncelleme​
 
- ## Kullanıcının Ana Ekranı <br>
-<img src="https://i.hizliresim.com/5k6ur3g.jpg"/>
-  ## Kullanıcının Ayarlar Ekranı <br>
-<img src="https://i.hizliresim.com/8xv89k7.jpg"/>
-  ## Görev Atama ve Görev Silme Ekranı <br>
-<img src="https://i.hizliresim.com/lxhfndc.jpg"/>
-<img src="https://i.hizliresim.com/1qfrjsn.jpg"/>
+## Kullanıcının Ana Ekranı 
+<img src="https://i.hizliresim.com/5k6ur3g.jpg"/ width="300">
+  ## Kullanıcının Ayarlar Ekranı 
+<img src="https://i.hizliresim.com/8xv89k7.jpg"/ width="300">
+  ## Görev Atama ve Görev Silme Ekranı 
+<img src="https://i.hizliresim.com/lxhfndc.jpg"/ width="300">
+<img src="https://i.hizliresim.com/1qfrjsn.jpg"/ width="300">
 
 

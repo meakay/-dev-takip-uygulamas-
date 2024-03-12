@@ -1,2 +1,2 @@
-# Ödev-takip-uygulamas-
+# Ödev-takip-uygulaması
 Eğitimler için yapılmış bir ödev takip uygulaması
